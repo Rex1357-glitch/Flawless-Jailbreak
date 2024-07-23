@@ -1,61 +1,55 @@
-//
-// LICENSE.m
-//
-// Created by Rex on 11.07.24
-//
- 
-//**Jailbreak Software Lizenzvereinbarung**
+**Jailbreak Software License Agreement**
 
 ---
 
-**1. Definitionen**
+**1. Definitions**
 
-1.1. "Software" bezieht sich auf die von mir, Rex, entwickelte Jailbreak-Software.
+1.1. "Software" refers to the jailbreak software developed by me, Rex.
 
-1.2. "Lizenznehmer" bezieht sich auf die Person oder das Unternehmen, das diese Lizenzvereinbarung akzeptiert.
+1.2. "Licensee" refers to the person or entity accepting this license agreement.
 
-**2. Lizenzgewährung**
+**2. Grant of License**
 
-2.1. Ich, Rex, gewähre dem Lizenznehmer eine nicht-exklusive, nicht übertragbare, widerrufliche Lizenz zur Nutzung der Software gemäß den Bedingungen dieser Vereinbarung.
+2.1. I, Rex, grant the Licensee a non-exclusive, non-transferable, revocable license to use the Software in accordance with the terms of this agreement.
 
-2.2. Der Lizenznehmer darf die Software nur für persönliche, nicht-kommerzielle Zwecke verwenden.
+2.2. The Licensee may only use the Software for personal, non-commercial purposes.
 
-**3. Einschränkungen**
+**3. Restrictions**
 
-3.1. Der Lizenznehmer darf die Software nicht verkaufen, vermieten, verleasen oder in irgendeiner Weise kommerziell nutzen.
+3.1. The Licensee may not sell, rent, lease, or otherwise commercially exploit the Software.
 
-3.2. Der Lizenznehmer darf die Software nicht verändern, zurückentwickeln (reverse engineering), dekompilieren oder disassemblieren.
+3.2. The Licensee may not modify, reverse engineer, decompile, or disassemble the Software.
 
-3.3. Der Lizenznehmer darf keine abgeleiteten Werke auf Basis der Software erstellen.
+3.3. The Licensee may not create derivative works based on the Software.
 
-**4. Eigentumsrechte**
+**4. Ownership Rights**
 
-4.1. Die Software und alle damit verbundenen Rechte bleiben das alleinige Eigentum von mir, Rex.
+4.1. The Software and all associated rights remain the sole property of me, Rex.
 
-**5. Haftungsbeschränkung**
+**5. Limitation of Liability**
 
-5.1. Die Software wird "wie besehen" bereitgestellt, ohne jegliche ausdrückliche oder stillschweigende Gewährleistungen.
+5.1. The Software is provided "as is," without any express or implied warranties.
 
-5.2. In keinem Fall hafte ich, Rex, für direkte, indirekte, zufällige, spezielle oder Folgeschäden, die sich aus der Nutzung oder Unfähigkeit zur Nutzung der Software ergeben.
+5.2. In no event shall I, Rex, be liable for any direct, indirect, incidental, special, or consequential damages arising out of the use or inability to use the Software.
 
-**6. Laufzeit und Beendigung**
+**6. Term and Termination**
 
-6.1. Diese Lizenz tritt mit der Annahme durch den Lizenznehmer in Kraft und bleibt so lange in Kraft, bis sie von mir, Rex, oder dem Lizenznehmer gekündigt wird.
+6.1. This license becomes effective upon acceptance by the Licensee and remains in effect until terminated by either me, Rex, or the Licensee.
 
-6.2. Ich behalte mir das Recht vor, diese Lizenz jederzeit zu kündigen, wenn der Lizenznehmer gegen eine der Bestimmungen dieser Vereinbarung verstößt.
+6.2. I reserve the right to terminate this license at any time if the Licensee breaches any of the terms of this agreement.
 
-6.3. Im Falle der Kündigung muss der Lizenznehmer die Nutzung der Software einstellen und alle Kopien der Software vernichten.
+6.3. Upon termination, the Licensee must cease using the Software and destroy all copies of the Software.
 
-**7. Schlussbestimmungen**
+**7. Miscellaneous**
 
-7.1. Diese Vereinbarung stellt die gesamte Vereinbarung zwischen dem Lizenznehmer und mir, Rex, bezüglich der Nutzung der Software dar und ersetzt alle vorherigen mündlichen oder schriftlichen Absprachen.
+7.1. This agreement constitutes the entire agreement between the Licensee and me, Rex, regarding the use of the Software and supersedes all prior oral or written understandings.
 
-7.2. Sollte eine Bestimmung dieser Vereinbarung als ungültig oder nicht durchsetzbar erachtet werden, bleiben die übrigen Bestimmungen dennoch in vollem Umfang in Kraft.
+7.2. If any provision of this agreement is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
 
 ---
 
-Indem der Lizenznehmer die Software herunterlädt oder nutzt, erklärt er sich mit den Bedingungen dieser Lizenzvereinbarung einverstanden.
+By downloading or using the Software, the Licensee agrees to the terms of this license agreement.
 
 **Rex**
 
-Datum:11.7.24
+Date: 11.7.24
