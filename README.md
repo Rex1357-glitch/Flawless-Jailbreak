@@ -1,1 +1,3 @@
-the 2. LICENSE
+-Jailbreak for IOS 17-17.3.1
+-No package manager
+-modern,clean,simple
