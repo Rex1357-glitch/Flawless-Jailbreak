@@ -1,0 +1,61 @@
+//
+// LICENSE.m
+//
+// Created by Rex on 11.07.24
+//
+ 
+//**Jailbreak Software Lizenzvereinbarung**
+
+---
+
+**1. Definitionen**
+
+1.1. "Software" bezieht sich auf die von mir, Rex, entwickelte Jailbreak-Software.
+
+1.2. "Lizenznehmer" bezieht sich auf die Person oder das Unternehmen, das diese Lizenzvereinbarung akzeptiert.
+
+**2. Lizenzgewährung**
+
+2.1. Ich, Rex, gewähre dem Lizenznehmer eine nicht-exklusive, nicht übertragbare, widerrufliche Lizenz zur Nutzung der Software gemäß den Bedingungen dieser Vereinbarung.
+
+2.2. Der Lizenznehmer darf die Software nur für persönliche, nicht-kommerzielle Zwecke verwenden.
+
+**3. Einschränkungen**
+
+3.1. Der Lizenznehmer darf die Software nicht verkaufen, vermieten, verleasen oder in irgendeiner Weise kommerziell nutzen.
+
+3.2. Der Lizenznehmer darf die Software nicht verändern, zurückentwickeln (reverse engineering), dekompilieren oder disassemblieren.
+
+3.3. Der Lizenznehmer darf keine abgeleiteten Werke auf Basis der Software erstellen.
+
+**4. Eigentumsrechte**
+
+4.1. Die Software und alle damit verbundenen Rechte bleiben das alleinige Eigentum von mir, Rex.
+
+**5. Haftungsbeschränkung**
+
+5.1. Die Software wird "wie besehen" bereitgestellt, ohne jegliche ausdrückliche oder stillschweigende Gewährleistungen.
+
+5.2. In keinem Fall hafte ich, Rex, für direkte, indirekte, zufällige, spezielle oder Folgeschäden, die sich aus der Nutzung oder Unfähigkeit zur Nutzung der Software ergeben.
+
+**6. Laufzeit und Beendigung**
+
+6.1. Diese Lizenz tritt mit der Annahme durch den Lizenznehmer in Kraft und bleibt so lange in Kraft, bis sie von mir, Rex, oder dem Lizenznehmer gekündigt wird.
+
+6.2. Ich behalte mir das Recht vor, diese Lizenz jederzeit zu kündigen, wenn der Lizenznehmer gegen eine der Bestimmungen dieser Vereinbarung verstößt.
+
+6.3. Im Falle der Kündigung muss der Lizenznehmer die Nutzung der Software einstellen und alle Kopien der Software vernichten.
+
+**7. Schlussbestimmungen**
+
+7.1. Diese Vereinbarung stellt die gesamte Vereinbarung zwischen dem Lizenznehmer und mir, Rex, bezüglich der Nutzung der Software dar und ersetzt alle vorherigen mündlichen oder schriftlichen Absprachen.
+
+7.2. Sollte eine Bestimmung dieser Vereinbarung als ungültig oder nicht durchsetzbar erachtet werden, bleiben die übrigen Bestimmungen dennoch in vollem Umfang in Kraft.
+
+---
+
+Indem der Lizenznehmer die Software herunterlädt oder nutzt, erklärt er sich mit den Bedingungen dieser Lizenzvereinbarung einverstanden.
+
+**Rex**
+
+Datum:11.7.24
