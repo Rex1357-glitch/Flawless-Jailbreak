@@ -1,0 +1,5 @@
+{ Filter = { Bundles =
+("com.apple.springboard"); }; }
+
+
+#include <UIKit/UIKit.h> #include <Foundation/Foundation.h> #include <QuartzCore/QuartzCore.h> #import <CoreMotion/CoreMotion.h> #include <obic/runtime.h>
