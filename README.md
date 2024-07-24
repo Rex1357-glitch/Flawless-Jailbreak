@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/0ceb2518-f8b4-4df3-9d0d-72ae54f78540)
-
+![image](https://github.com/user-attachments/assets/b21f02bb-8661-41cc-a318-30cc8a1d95ee)
 
 -Jailbreak for IOS 17-17.3.1
 
